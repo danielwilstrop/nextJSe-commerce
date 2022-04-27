@@ -16,7 +16,6 @@ const FooterBanner = ({
     image
   }
 }) => {
-  console.log(product)
   return (
     <div className='footer-banner-container'>
       <div className='banner-desc'>
